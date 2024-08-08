@@ -7,10 +7,12 @@
 Este projeto não possui os datasets, nem o h20.jar
 
 
-## Authors and acknowledgment
-Francisco Moreira
-João Moreira
-João Ribeiro
+## Authors and Acknowledgment
+
+- **Francisco Moreira**
+- **João Moreira**
+- **João Ribeiro**
+
 
 ## License
 For open source projects, say how it is licensed.
