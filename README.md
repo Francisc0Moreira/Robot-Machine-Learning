@@ -4,6 +4,7 @@
 
 ## Getting started
 
+Este projeto foi desenvolvido na unidade curricular Inteligência Artificial (IA)
 Este projeto não possui os datasets, nem o h20.jar
 
 
@@ -12,5 +13,6 @@ Este projeto não possui os datasets, nem o h20.jar
 - **Francisco Moreira**
 - **João Moreira**
 - **João Ribeiro**
+
 
 
